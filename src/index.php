@@ -7,4 +7,4 @@ This is a test!!
 
 </p>
 </body>
-<?php require $_SERVER['DOCUMENT_ROOT'] . '/modules/foot.html'?>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/modules/foot.php'?>
