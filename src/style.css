@@ -1,5 +1,11 @@
 body {
+	font-family: "Times New Roman", Times, serif;
 	background: black ;	
+	color: #E1E1E1 ;
+}
+
+a {
+        color: #f78422 ;
 }
 
 .nav ul {
@@ -15,11 +21,11 @@ body {
 }
 
 .textBlock {
-        background-color: white ;
+	background-color: #171717 ;
 	border-style: double ;
         width: 65% ;
 	margin: auto;
-        border: 2px solid red ;
+        border: 2px solid #f78422 ;
         padding: 35px ;
 	margin: auto;
 }
