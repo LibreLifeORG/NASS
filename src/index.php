@@ -1,6 +1,6 @@
 <?php require $_SERVER['DOCUMENT_ROOT'] . '/modules/head.html'?>
 <body>
-<?php require $_SERVER['DOCUMENT_ROOT'] . '/modules/nav.html'?>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/modules/nav.php'?>
 <p>
 	<!-- This is where you place your HTML -->
 This is a test!!

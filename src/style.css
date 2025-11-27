@@ -17,9 +17,9 @@ body {
 .textBlock {
         background-color: white ;
 	border-style: double ;
-        width: 50% ;
+        width: 65% ;
 	margin: auto;
         border: 2px solid red ;
-        padding: 50px ;
+        padding: 35px ;
 	margin: auto;
 }
