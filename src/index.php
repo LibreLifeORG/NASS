@@ -1,4 +1,4 @@
-<?php require $_SERVER['DOCUMENT_ROOT'] . '/modules/head.html'?>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/modules/head.php'?>
 <body>
 <?php require $_SERVER['DOCUMENT_ROOT'] . '/modules/nav.php'?>
 <p>
