@@ -1,5 +1,5 @@
 body {
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Times New Roman", Times, serif ;
 	background: black ;	
 	color: #E1E1E1 ;
 }
@@ -8,16 +8,25 @@ a {
         color: #f78422 ;
 }
 
+h2 {
+	color: #D56416 ;
+	font-size: 30px ;
+	text-decoration-line: underline ;
+	font-style: italic ;
+	font-style: bold ;
+	text-align: center ;
+}
+
 .nav ul {
-	list-style-type: none;
-  	margin: 0;
-  	padding: 0;
-  	text-align: left;
+	list-style-type: none ;
+  	margin: 0 ;
+  	padding: 0 ;
+  	text-align: left ;
 }
 
 .nav li {
-  	display: inline;
-  	text-align: left;
+  	display: inline ;
+  	text-align: left ;
 }
 
 .textBlock {
@@ -27,5 +36,5 @@ a {
 	margin: auto;
         border: 2px solid #f78422 ;
         padding: 35px ;
-	margin: auto;
+	margin: auto ;
 }
