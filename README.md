@@ -3,6 +3,7 @@
 A somewhat simple website template made in PHP, to make certain things like the
 nav-bar and header/footer easier to maintain.
 
+*"Not the National Agricultual Stastiss Service"*
 *"Because HUGO is too simple."*
 
 # Programming 'Rules'.
