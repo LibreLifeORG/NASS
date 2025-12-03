@@ -22,18 +22,24 @@ h2 {
   	margin: 0 ;
   	padding: 0 ;
   	text-align: left ;
+	display: flex ;
+    	justify-content: center ;
+    	gap: 2rem ;
 }
 
 .nav li {
   	display: inline ;
-  	text-align: left ;
+  	text-align: center ;
+}
+
+a:hover {
+    color: #ff9f50 ;
 }
 
 .textBlock {
 	background-color: #171717 ;
 	border-style: double ;
         width: 65% ;
-	margin: auto;
         border: 2px solid #f78422 ;
         padding: 35px ;
 	margin: auto ;

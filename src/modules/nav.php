@@ -6,9 +6,9 @@
 ?>
 <div class="nav">
 <ul>
-  <li><a href="/">Home</a> —</li>
-  <li><a href="/about/">About me</a> —</li>
-  <li><a href="/other/">Other</a> </li>
+  <li><a href="/">Home</a></li>
+  <li><a href="/about/">About me</a></li>
+  <li><a href="/other/">Other</a></li>
 </ul>
 </div>
 
