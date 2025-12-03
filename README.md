@@ -1,6 +1,9 @@
-# SSMPS
-Stupidly Simple Modular Php Site-Generator
+#NASS - Not A Static Site *(Generator)*
 
+A somewhat simple website template made in PHP, to make certain things like the
+nav-bar and header/footer easier to maintain.
+
+*"Because HUGO is too simple."*
 
 # Programming 'Rules'.
 

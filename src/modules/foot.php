@@ -23,7 +23,8 @@
 <hr>
 <footer>
     <p>
-    <a href="<?php echo $url[1];?>"><?php echo $title[1];?></a> © <?php echo $year[1]; ?> - <?php echo date("Y"); ?> by <?php echo "$creator[1]."; ?> </a>
+    <a href="<?php echo $url[1];?>"><?php echo $title[1];?></a> © <?php echo $year[1]; ?> - <?php echo date("Y"); ?> by <?php echo "$creator[1]."; ?> </a><br>
+    Website created with <a>NASS</a>
    </p>
 </footer>
 </div>
